@@ -22,6 +22,15 @@ class Solution {
                 if(!basket.isEmpty()&&doll==basket.peek()){
                     //같은 두 인형 소멸
                     answer+=2;
+                    
+                    //실제로도 소멸
+                    //첫번째 인형
+                    basket.pop();
+                    //스택이 비어있지 않으면
+                    if(!basket.isEmpty()){
+                        //두번째 인형
+                        basket.pop();
+                    }
                 }
             }
         }

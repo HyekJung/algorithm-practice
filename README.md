@@ -8,6 +8,8 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | :--: |:--: |
 |Lv.0|[바로가기](https://github.com/HyekJung/algorithm-practice/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0)|
 |Lv.1|[바로가기](https://github.com/HyekJung/algorithm-practice/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1)|
+|Lv.2|[바로가기](https://github.com/HyekJung/algorithm-practice/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/2)|
+
 
 ### 🤓 JavaScript
 | 문제 난이도 | 바로가기 |

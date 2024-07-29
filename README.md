@@ -25,4 +25,4 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 ### 👩‍💻 mysql
 | 문제 난이도 | 바로가기 | 
 | :--: |:--: |
-|Lv.0|[바로가기]
+|Lv.0|[바로가기]|

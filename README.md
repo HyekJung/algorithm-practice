@@ -26,3 +26,4 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | 문제 난이도 | 바로가기 | 
 | :--: |:--: |
 |Lv.0|[바로가기]|
+(https://github.com/search?q=repo%3AHyekJung%2Falgorithm-practice++language%3APython&type=code)|
